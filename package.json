@@ -1,0 +1,20 @@
+{
+  "name": "gallery-project",
+  "version": "1.0.0",
+  "description": "Gallery project using Bootstrap, jQuery and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeEnne/gallery-project.git"
+  },
+  "author": "Felipe Enne Mendes Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeEnne/gallery-project/issues"
+  },
+  "homepage": "https://github.com/FelipeEnne/gallery-project#readme"
+}
